@@ -2,7 +2,7 @@
 
 💡 Essa lista abrange uma variedade de projetos envolvendo front-end, back-end e até mesmo aplicativos mobile. Acredito que cada projeto seja uma oportunidade única de aprendizado e crescimento, permitindo-me explorar novas tecnologias, técnicas e conceitos emocionantes.
 
-💻 Estou animado(a) em compartilhar minha jornada de aprendizado com a comunidade GitHub, e espero que esses projetos também possam inspirar outros desenvolvedores a embarcarem em suas próprias jornadas de desenvolvimento.
+💻 Pretendo  realizar um projeto a cada dois ou três dias,estou animado(a) em compartilhar minha jornada de aprendizado com a comunidade GitHub, e espero que esses projetos também possam inspirar outros desenvolvedores a embarcarem em suas próprias jornadas de desenvolvimento.
 
 🌟 À medida que me aventuro nessa jornada, estou sempre em busca de melhorias contínuas. Cada desafio e solução me ajudam a crescer como desenvolvedor(a), e agradeço por todo feedback, dicas e suporte que recebo ao longo do caminho.
 
@@ -42,7 +42,7 @@
 | 27     | BBC                  | Clone da BBC                |
 | 28     | The New York Times   | Clone do The New York Times |
 | 29     | Wikipedia            | Clone da Wikipedia          |
-| 30     | Adobe                | Clone da Adobe              |
+| 30     | Adobe                | Clone da Starbucks              |
 
 
 
